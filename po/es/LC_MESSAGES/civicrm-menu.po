@@ -314,10 +314,9 @@ msgctxt "menu"
 msgid "Event Name Badge Templates"
 msgstr "Seleccionar Plantilla"
 
-#, fuzzy
 msgctxt "menu"
 msgid "Event Online Registration"
-msgstr "Registro al Evento"
+msgstr "Registro en-linea al Evento"
 
 msgctxt "menu"
 msgid "Event Participants List"
